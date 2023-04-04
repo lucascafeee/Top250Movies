@@ -1,3 +1,2 @@
 # Top250Movies
-imersão java alura // Consumo de uma API do IMdB (sem nenhuma biblioteca externa)
-os objetivos era extrair e destacar o poster, a classificação e o titulo.
+A project that I developed to sophisticate and expand my knowledge in Java is a program that consumes the IMDb API (without any external libraries). The objective of the project is to extract and highlight the poster, classification, and title of the movies.
